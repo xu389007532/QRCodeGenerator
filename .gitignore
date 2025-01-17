@@ -2,9 +2,7 @@
 /build
 /__pycache__
 /lib
-*.png
 *.svg
-*.ico
 /swiss
 *.csv
 *.xlsx
@@ -32,3 +30,17 @@ sqr_bill04.py
 EPCQRCodetest02.py
 EPCQRCodetest.py
 EpcQRCode1.py
+/temp0
+cropped_image.png
+cropped_image1.png
+images_0.png
+images_a.png
+p1.png
+PaymentPart_blank.png
+qrcode_with_image.png
+some_file46v6.png
+/temp1
+test.png
+test150.png
+testb.png
+x.png
