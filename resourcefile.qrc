@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="ico_file">
+    <file>PaymentPart_blank.png</file>
+    <file>PaymentPart_de.png</file>
+    <file>PaymentPart_en.png</file>
+    <file>PaymentPart_fr.png</file>
+    <file>PaymentPart_it.png</file>
+    <file>sourcefile/8923926.png</file>
+    <file>sourcefile/add.png</file>
+    <file>sourcefile/add2.png</file>
+    <file>sourcefile/add3.png</file>
+    <file>sourcefile/favicon.ico</file>
+    <file>sourcefile/icons8-acrobat-67.png</file>
+    <file>sourcefile/open.png</file>
+    <file>sourcefile/open2.png</file>
+    <file>sourcefile/open3.png</file>
+    <file>sourcefile/OPENFOLD.ICO</file>
+    <file>sourcefile/run.png</file>
+    <file>sourcefile/save.png</file>
+    <file>sourcefile/title.ico</file>
+  </qresource>
+  <qresource prefix="file">
+    <file>config.ini</file>
+  </qresource>
+</RCC>
