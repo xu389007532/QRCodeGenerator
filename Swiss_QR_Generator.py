@@ -1,4 +1,6 @@
-
+"""
+Data 部生成 Swiss QR code
+"""
 #################实现自动先把ui 文件转为python 文件#################开始
 import qt_ui_to_py
 qt_ui_to_py.runMain()
