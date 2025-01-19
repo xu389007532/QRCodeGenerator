@@ -14,7 +14,7 @@
    <string>EPC QR Code Generator</string>
   </property>
   <property name="windowIcon">
-   <iconset>
+   <iconset resource="resourcefile.qrc">
     <normaloff>:/ico_file/sourcefile/title.ico</normaloff>:/ico_file/sourcefile/title.ico</iconset>
   </property>
   <property name="styleSheet">
@@ -57,7 +57,7 @@ font: 12pt &quot;Microsoft Sans Serif&quot;;
         <item>
          <widget class="QLabel" name="label_Version">
           <property name="text">
-           <string>Version</string>
+           <string>Version:</string>
           </property>
          </widget>
         </item>

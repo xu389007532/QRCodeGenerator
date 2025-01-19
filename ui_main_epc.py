@@ -167,7 +167,7 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "EPC QR Code Generator"))
-        self.label_Version.setText(_translate("MainWindow", "Version"))
+        self.label_Version.setText(_translate("MainWindow", "Version:"))
         self.comboBox_Version.setItemText(0, _translate("MainWindow", "001"))
         self.comboBox_Version.setItemText(1, _translate("MainWindow", "002"))
         self.label_encoding.setText(_translate("MainWindow", "Character set"))
