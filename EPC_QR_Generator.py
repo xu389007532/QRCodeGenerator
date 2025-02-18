@@ -4,12 +4,13 @@
 import qt_ui_to_py
 qt_ui_to_py.runMain()
 #################实现自动先把ui 文件转为python 文件#################结束
+import ui_main_epc
 # from PyQt5.QtGui import *
 from PyQt5.QtWidgets import QMainWindow, QApplication, QWidget, QFileDialog,QAbstractItemView,QMessageBox
 from PyQt5.QtCore import QModelIndex,Qt,QThread,pyqtSignal
 # import configparser
 import pandas as pd
-import ui_main_epc
+
 import sys
 from py_epc_qr.transaction import epc_qr
 import os
